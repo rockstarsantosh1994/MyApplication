@@ -37,6 +37,8 @@ public class CameraUploadActivity extends AppCompatActivity {
 
     StorageReference storageReference;
 
+    //StorageReference storageReference;
+
 
 
     @Override
